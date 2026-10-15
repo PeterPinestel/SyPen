@@ -1,0 +1,42 @@
+[
+  {
+    "filename": "01-brand-collection.png",
+    "resolution": [
+      1595,
+      986
+    ],
+    "sha256": "2d625b0c3de2a9ab51ee8774d8cc6682f1a28e3e236af79920ba88b712c4e756"
+  },
+  {
+    "filename": "02-laser-personalization.png",
+    "resolution": [
+      1594,
+      986
+    ],
+    "sha256": "20ac4ab4785cbb31dcc721087267ee69bf07b7dae5513c85731304c54d509978"
+  },
+  {
+    "filename": "03-writing-styles.png",
+    "resolution": [
+      1594,
+      987
+    ],
+    "sha256": "74b686df0a1f7fcf0c3ce43f639b9bf8bc49a1fe6805c8ea6816de178073104c"
+  },
+  {
+    "filename": "04-five-finish-guide.png",
+    "resolution": [
+      1595,
+      986
+    ],
+    "sha256": "7da51f05392c95c07f25b49e44e27158ca25be4f21454351a8eb24744fd77ab2"
+  },
+  {
+    "filename": "05-personalized-gifting.png",
+    "resolution": [
+      1594,
+      987
+    ],
+    "sha256": "2b4a8e58d13abf29b49a5f218bed8d40c6c497f88d69124ab15790300963e560"
+  }
+]

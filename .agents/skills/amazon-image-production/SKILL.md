@@ -5,7 +5,7 @@ description: Plan, create, adapt, and review Amazon secondary images, Brand Stor
 
 # Amazon image production
 
-Build product-accurate, useful Amazon visuals. Treat image generation as one production method, not evidence that a rendered product is correct. Read [handoff.md](references/handoff.md) for the input/output contract. Read [aplus-patterns.md](references/aplus-patterns.md) when planning A+ or interpreting an inspiration library. Read [sypen-calibration.md](references/sypen-calibration.md) when working on SyPen or diagnosing the supplied unsuccessful A+ sequence.
+Build product-accurate, useful Amazon visuals. Treat image generation as one production method, not evidence that a rendered product is correct. Read [handoff.md](references/handoff.md) for the input/output contract. Read [aplus-patterns.md](references/aplus-patterns.md) when planning A+ or interpreting an inspiration library.
 
 ## 1. Establish scope and truth
 

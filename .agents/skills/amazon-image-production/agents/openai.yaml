@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon Image Production"
+  short_description: "Plan, create, and verify Amazon images and A+ content"
+  default_prompt: "Use $amazon-image-production to build an Amazon image stack or A+ sequence from my product references and approved facts."

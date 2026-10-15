@@ -5,6 +5,7 @@ Create a compact project brief before visual work. Use the research plugin's fac
 ## Minimum intake
 
 - Marketplace/language; product and offer scope (one variant, family, collection); requested deliverable and whether the job is from scratch or adaptation.
+- Product context: category, physical scale/form, normal use setting, buyer decisions and objections, and intended brand positioning. Keep observed shopper evidence distinct from inferred use cases.
 - Product truth: seller-confirmed attributes, source links/files, included items, customization details, dimensions that affect depiction, approved claims, and unresolved facts.
 - Actual-product references: filename and which view/part each image establishes. Identify sample engravings and placeholder supplier marks separately.
 - Brand assets: logo, palette, typography, and any approved visual direction. Missing brand guidance should not trigger invented logos.
@@ -22,7 +23,7 @@ Create a compact project brief before visual work. Use the research plugin's fac
 | Visual proof | What the image must show to support the wording |
 | Product | Exact variant, count, and visible reference details |
 | Layout | Composition, hierarchy, text zones, mobile crop |
-| Inspiration | One or two structural patterns and why they fit |
+| Inspiration | The abstract design logic selected, its relevance to this product, and the category-specific elements deliberately replaced |
 | QA risk | Most likely product, claim, text, or crop error |
 
 For A+, add the selected module type, native versus embedded text, page position, transition from the preceding module, desktop/mobile behavior, and any cross-variant relationship. Do not invent a module's exact dimensions or field budget; check the current Seller Central template.

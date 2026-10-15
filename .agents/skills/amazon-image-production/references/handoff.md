@@ -26,7 +26,7 @@ Create a compact project brief before visual work. Use the research plugin's fac
 | Inspiration | The abstract design logic selected, its relevance to this product, and the category-specific elements deliberately replaced |
 | QA risk | Most likely product, claim, text, or crop error |
 
-For A+, add the selected module type, native versus embedded text, page position, transition from the preceding module, desktop/mobile behavior, and any cross-variant relationship. Do not invent a module's exact dimensions or field budget; check the current Seller Central template.
+For a secondary stack, add square canvas dimensions, thumbnail reading order, source-to-adaptation log, safe text area, and the distinct role of each image in the stack. For A+, add the selected module type, native versus embedded text, page position, transition from the preceding module, desktop/mobile behavior, and any cross-variant relationship. Do not invent a module's exact dimensions or field budget; check the current Seller Central template.
 
 ## Final manifest
 

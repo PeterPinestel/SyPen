@@ -5,7 +5,7 @@ description: Plan, create, adapt, and review Amazon secondary images, Brand Stor
 
 # Amazon image production
 
-Build product-accurate, useful Amazon visuals. Treat image generation as one production method, not evidence that a rendered product is correct. Read [handoff.md](references/handoff.md) for the input/output contract. Read [aplus-patterns.md](references/aplus-patterns.md) when planning A+ or interpreting an inspiration library.
+Build product-accurate, useful Amazon visuals. Treat image generation as one production method, not evidence that a rendered product is correct. Read [handoff.md](references/handoff.md) for the input/output contract. Read [aplus-patterns.md](references/aplus-patterns.md) whenever an inspiration library is supplied, including when the deliverable is a square secondary stack.
 
 ## 1. Establish scope and truth
 
@@ -26,9 +26,11 @@ Build product-accurate, useful Amazon visuals. Treat image generation as one pro
 
 For every asset, write a one-line job, shopper question, supported answer/claim, visual proof, product variant, composition, copy, source reference, and QA risk. Use [handoff.md](references/handoff.md). Show distinct purposes and avoid repeating the same assertion across the stack.
 
+For secondary images, plan a coherent **1:1 square stack** unless the user specifies another format. Make each image answer a distinct buying question and remain understandable at mobile thumbnail size. Design the composition on a square canvas from the start: place product, detail, text, and negative space intentionally instead of cropping a wide A+ banner or repeating a hero photo with new text. Verify current marketplace image size and content requirements before final export.
+
 For A+, plan the **whole page** before any individual module. Choose Basic, Premium, or Brand Story based on the account's available modules and the user's request; verify current Amazon module dimensions, text budgets, image requirements, and claim rules in Seller Central or current official guidance. Do not assume a fixed canvas or treat A+ as secondary images widened to a banner ratio. Specify native text versus baked-in text, sequence, visual rhythm, mobile behavior, and the transition between modules. Use technical explanations, steps, comparisons, proof, lifestyle, or brand narrative only when relevant and supported. A collection comparison needs separate products/variants confirmed.
 
-When given an idea library, segment full-page screenshots into actual content modules. Ignore Amazon interface elements and unrelated recommendations. Extract **why** each relevant design works: its shopper question, visual proof, composition, hierarchy, information density, and role in the page rhythm. Then translate that logic to the new product's physical form, scale, use context, buyer, category, and brand direction. Sketch an original layout with those constraints before rendering. A home or health reference can inform a pen, tool, food, or apparel page through its structure without transferring its imagery or category-specific claims. See [aplus-patterns.md](references/aplus-patterns.md). Flag a proposed sequence whose modules all use the same hero-photo-plus-headline arrangement unless that repetition is a deliberate, justified design choice.
+When given an idea library, segment full-page screenshots into actual content modules. Ignore Amazon interface elements and unrelated recommendations. Extract **why** each relevant design works: its shopper question, visual proof, composition, hierarchy, information density, and role in the page rhythm. Then translate that logic to the new product's physical form, scale, use context, buyer, category, brand direction, and **target aspect ratio**. Sketch an original layout with those constraints before rendering. For square secondary images, borrow a module's compositional device or way of explaining a detail, then rebuild its hierarchy within a square; its A+ sequence role is context, not a required module order. See [aplus-patterns.md](references/aplus-patterns.md). Flag a proposed sequence whose assets all use the same hero-photo-plus-headline arrangement unless that repetition is a deliberate, justified design choice.
 
 ## 4. Render with controlled components
 

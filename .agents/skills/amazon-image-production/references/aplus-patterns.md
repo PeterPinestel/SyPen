@@ -1,6 +1,6 @@
-# Transferable A+ design grammar
+# Transferable inspiration grammar
 
-The supplied 30-image library contains complete vertical page captures, mostly from categories unlike the next product. Its value is in **composition, information architecture, and page rhythm**. Do not use a competitor screenshot as a literal generation reference for the final artwork. Do not borrow its product, setting, claims, palette, branding, badges, or category conventions without independent reason.
+An A+ idea library may contain complete vertical page captures from categories unlike the target product. Its value is in **composition, information architecture, and page rhythm**. The same structural ideas can inform square secondary images after being redesigned for 1:1. Do not use a competitor screenshot as a literal generation reference for the final artwork. Do not borrow its product, setting, claims, palette, branding, badges, or category conventions without independent reason.
 
 ## Extract the mechanism
 
@@ -13,13 +13,15 @@ For each candidate, first isolate a real A+ or Brand Story section from the full
 5. **Sequence role:** Why does this section come after the previous one? Does it change pace or add depth?
 6. **Mobile behavior:** What is cropped, stacked, or too small at narrow width?
 
-Write the answers as an abstract layout recipe. Select a reference only if its mechanism fits the current product's real buying decision.
+Record the source filename and section location, then write the answers as an abstract layout recipe. Select a reference only if its mechanism fits the current product's real buying decision. Keep a short source-to-adaptation log so the borrowed principle can be reviewed without copying the source artwork.
 
 ## Translate, do not trace
 
 Build a new composition from the product's shape, scale, number of parts, material, real use setting, approved claims, brand tone, and available source views. If the reference depicts a large bottle but the new product is small and elongated, recompose product scale, orientation, crop, and text zones. If a reference explains ingredients, translate the **explanation structure** only when the new product has a different supported detail worth explaining. If it shows a use process, use steps only when the target product genuinely has ordered steps. Treat comparison as useful only when meaningful, confirmed alternatives exist.
 
 Before generation, write: `borrowed principle → product-specific adaptation → deliberately excluded category cues`. Then produce a simple wireframe or layout spec. Give the image generator the resulting original composition and actual-product references; do not rely on an unannotated competitor screenshot to convey the design.
+
+For **1:1 secondary images**, rebuild the selected idea on a square artboard. Preserve its reading logic while changing placement, crop, scale, and text density to suit the product and small-screen view. An A+ step strip might become a small grid, a split panel might become a square diagonal or stacked layout, and an anatomy module might become one dominant detail with a few accurate callouts. Choose the arrangement that proves the asset's one claim. Do not crop the original wide layout into a square or make every square look like the same A+ banner.
 
 ## Reusable composition devices
 
@@ -38,4 +40,4 @@ These are building blocks, not a required sequence. Vary scale, density, visual 
 
 ## Review the adaptation
 
-Compare the new wireframe against the abstract recipe, not the original brand artwork. Ask: Does the product's physical form fit naturally? Does every visual prove its copy? Does this module add information the secondary images did not already cover? Would the structure still make sense if the inspiration screenshot were removed? If not, revise the plan before making assets.
+Compare the new wireframe against the abstract recipe, not the original brand artwork. Ask: Does the product's physical form fit naturally? Does every visual prove its copy? Does this asset add a distinct answer to the requested stack? Would the structure still make sense if the inspiration screenshot were removed? If not, revise the plan before making assets.

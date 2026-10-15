@@ -1,18 +1,41 @@
-# A+ layout patterns distilled from the supplied 30-image idea library
+# Transferable A+ design grammar
 
-The October 2026 library consists of 30 tall screenshots of complete product-page sections across many brands. It is a source of **structure and pacing**, not product facts, claims, visual assets to copy, or evidence that a particular tactic improves sales. Some screenshots include Brand Story, A+, page interface, and product recommendations together; split those before selecting a module pattern. The raw competitor screenshots are intentionally not stored in this public repository.
+The supplied 30-image library contains complete vertical page captures, mostly from categories unlike the next product. Its value is in **composition, information architecture, and page rhythm**. Do not use a competitor screenshot as a literal generation reference for the final artwork. Do not borrow its product, setting, claims, palette, branding, badges, or category conventions without independent reason.
 
-Use these patterns as choices, never as a mandatory five-panel template. Select based on the product's shopper questions and the actual A+ modules available.
+## Extract the mechanism
 
-| Pattern | Structural lesson | Suitable job | Representative library screenshot |
-| --- | --- | --- | --- |
-| Lifestyle opener | One large scene establishes setting, then quieter supporting sections narrow the story | Introduce use context or brand mood | `ext-Aroma_Country_A_Content_01.jpg` |
-| Split image and explanation | A product or usage photograph shares the module with a short, concrete explanation | Explain one feature in context | `ext-CleanShot_2025-05-12_at_22.21.20.jpg` (Perfect Keto) |
-| Annotated product anatomy | One accurately depicted hero product anchors specific detail callouts | Explain verified parts and mechanisms | `ext-CleanShot_2025-05-12_at_22.23.16.jpg` (Manscaped) |
-| Process triptych | Three small, ordered frames show a real sequence with concise labels | Demonstrate use or customization steps | `ext-CleanShot_2025-05-09_at_15.06.30.jpg` (Fomin) |
-| Comparison or specification | A table or aligned columns let buyers compare meaningful differences | Resolve variant, compatibility, size, or contents questions | `ext-CleanShot_2025-05-09_at_15.06.30.jpg` (Fomin) |
-| Feature grid | Multiple short claims, icons, or details form a scannable field around product/lifestyle proof | Summarize distinct, supported facts | `ext-CleanShot_2025-04-14_at_18.19.38_(1).jpg` (Sunkist) |
-| Modular brand/lifestyle grid | Alternating large and small panels create a page rhythm without repeating the same hero composition | Brand story plus selected product explanations | `ext-CleanShot_2025-05-12_at_23.17.16.jpg` (Earth Rated) |
-| Variant lineup | Consistently scaled products and clear labels show a real family of separate options | Help select among confirmed variants | `ext-CleanShot_2025-05-12_at_22.21.20.jpg` (Perfect Keto) |
+For each candidate, first isolate a real A+ or Brand Story section from the full screenshot. Exclude Amazon interface, recommendations, ratings, and unrelated modules. Describe the section without brand or category nouns:
 
-When the original library is supplied to a future task, inspect the relevant screenshot at readable scale. Tag the actual section and note what to borrow, what to avoid, and how it changes for the target product. The filename mapping above is a locator, not a substitute for looking at the image. A five-module page should have a reason for every module and a deliberate alternation in scale, information density, and image/text structure. Keep product claims and lifestyle implications within the approved fact ledger.
+1. **Job:** Which shopper question, uncertainty, or emotion does it address?
+2. **Visual proof:** What makes the answer visible: use scene, close-up, process, anatomy, lineup, or comparison?
+3. **Composition:** Where do product, person, detail, and negative space sit? What is dominant?
+4. **Hierarchy:** What is read first, second, and third? How much is native text versus text in the image?
+5. **Sequence role:** Why does this section come after the previous one? Does it change pace or add depth?
+6. **Mobile behavior:** What is cropped, stacked, or too small at narrow width?
+
+Write the answers as an abstract layout recipe. Select a reference only if its mechanism fits the current product's real buying decision.
+
+## Translate, do not trace
+
+Build a new composition from the product's shape, scale, number of parts, material, real use setting, approved claims, brand tone, and available source views. If the reference depicts a large bottle but the new product is small and elongated, recompose product scale, orientation, crop, and text zones. If a reference explains ingredients, translate the **explanation structure** only when the new product has a different supported detail worth explaining. If it shows a use process, use steps only when the target product genuinely has ordered steps. Treat comparison as useful only when meaningful, confirmed alternatives exist.
+
+Before generation, write: `borrowed principle → product-specific adaptation → deliberately excluded category cues`. Then produce a simple wireframe or layout spec. Give the image generator the resulting original composition and actual-product references; do not rely on an unannotated competitor screenshot to convey the design.
+
+## Reusable composition devices
+
+| Device | What it accomplishes | Use only when |
+| --- | --- | --- |
+| Contextual opener | Establishes a believable world and product role with one dominant image | The product has a supported use setting |
+| Image/text split | Pairs one concrete visual with a concise explanation | One feature needs a little more depth than a caption |
+| Product anatomy | Connects accurate close-ups to specific parts | The source views support those parts and their functions |
+| Ordered frames | Makes a real process easy to follow | The steps and their order are confirmed |
+| Comparison grid | Makes differences scannable at equal visual scale | Options or criteria are real and accurately labeled |
+| Detail-to-context pair | Moves from material/finish or mechanism to real use | Both the close-up and use case can be shown truthfully |
+| Modular feature field | Groups several distinct facts without making another hero banner | Each fact has evidence and a distinct purpose |
+| Quiet text or specification section | Gives dense decisions breathing room between image-heavy sections | Native module text or a readable table fits the template |
+
+These are building blocks, not a required sequence. Vary scale, density, visual proof, and reading direction across the page. Keep a coherent brand system without repeating the same headline-over-hero treatment in every module.
+
+## Review the adaptation
+
+Compare the new wireframe against the abstract recipe, not the original brand artwork. Ask: Does the product's physical form fit naturally? Does every visual prove its copy? Does this module add information the secondary images did not already cover? Would the structure still make sense if the inspiration screenshot were removed? If not, revise the plan before making assets.
